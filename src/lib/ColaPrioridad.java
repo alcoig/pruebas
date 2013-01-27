@@ -11,7 +11,7 @@ private HashMap<T,T> m_map = new HashMap<T,T>();
 private TreeSet<T> m_set;
 
 //------------------------------------------------------------------------
-/** Construye una cola de prioridad mediante un comparador.
+/** Construye una Cola de Prioridad mediante un comparador.
 @param c Comparador que establece la prioridad entre los elementos.
 */
 @SuppressWarnings("unchecked")
