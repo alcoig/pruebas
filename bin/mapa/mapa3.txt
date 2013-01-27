@@ -1,0 +1,6 @@
+filas=3
+columnas=3
+gasolinera=2,1
+444
+1#1
+121
